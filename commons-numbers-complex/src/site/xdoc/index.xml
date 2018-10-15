@@ -25,9 +25,15 @@
 
   <body>
 
-    <section name="Apache Commons Numbers: Number types" href="summary">
+    <section name="Apache Commons Numbers Complex" href="summary">
       <p>
-        Commons Numbers provides utilities such as complex numbers and fractions.
+         Apache Commons Numbers Complex provides Java programmers with a 
+         Complex number library that meets all mathematical, scientific
+         programming and industry standards. Commons Numbers Complex 
+         is one of the few complex number libraries in any language
+         meeting all ISO C99 standards for complex numbers, including
+         all trigonometric "branch cut" corner cases. Complex objects further meet all
+         requirements for Value Java Objects, or VALJOs.
       </p>
 
       <p>
